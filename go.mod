@@ -28,7 +28,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/panjf2000/ants v1.3.0
+	github.com/panjf2000/ants v1.2.1
 	github.com/parnurzeal/gorequest v0.3.0
 	github.com/robertkrimen/otto v0.3.0
 	github.com/shirou/gopsutil v3.21.11+incompatible
